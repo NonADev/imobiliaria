@@ -1,9 +1,13 @@
 import './App.scss';
+import Navbar from './components/Navbar/Navbar';
 
+/**
+ * @returns mapped application
+ */
 function App() {
   return (
-    <div className="App">
-      React
+    <div>
+      <Navbar/>
     </div>
   );
 }
