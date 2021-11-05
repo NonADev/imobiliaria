@@ -60,3 +60,19 @@
     font-size: 14px;
     color: rgb(156, 169, 182);
 }
+
+.displayImovel-content-extra {
+    margin: 15px 0;
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+}
+
+.displayImovel-content-extra-item {
+    display: flex;
+}
+
+.displayImovel-content-extra-item-imagem {
+    width: 24px;
+    height: 24px;
+}

@@ -1,5 +1,9 @@
 import './DisplayImovel.scss';
+import SquareFoot from "../../common/imgs/square_foot.svg";
+import Bed from "../../common/imgs/bed.svg";
+import Wc from "../../common/imgs/wc.svg";
 
+//https://www.imovelweb.com.br/imoveis-aluguel-sao-paulo-sp.html
 function DisplayImovel() {
     return (
         <div style={{marginTop: '5vh', marginLeft: '3vw'}} className="displayImovel-imovel">
@@ -17,15 +21,18 @@ function DisplayImovel() {
                         <span className="displayImovel-content-principal-localidade-bairro-cidade">Liberdade, São Paulo</span>
                     </div>
                 </div>
-                <div>
-                    <div>
-                        66 m²
+                <div className="displayImovel-content-extra">
+                    <div className="displayImovel-content-extra-item">
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={SquareFoot}/>
+                        <span>66 m²</span>
                     </div>
-                    <div>
-                        1 quarto
+                    <div className="displayImovel-content-extra-item">
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={Bed}/>
+                        <span>1 quarto</span>
                     </div>
-                    <div>
-                        1 ban
+                    <div className="displayImovel-content-extra-item">
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={Wc}/>
+                        <span>1 ban</span>
                     </div>
                 </div>
                 <div>
