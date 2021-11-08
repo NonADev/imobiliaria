@@ -9,6 +9,9 @@ function App() {
 	return (
 		<div>
 			<Navbar />
+			<section>
+				<DisplayImovel />
+			</section>
 		</div>
 	);
 }

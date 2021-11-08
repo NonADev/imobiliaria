@@ -1,0 +1,94 @@
+.displayImovel-imovel {
+    border: 1px solid #d1d1d1;
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    width: 70vw;
+}
+
+.displayImovel-carousel-image {
+    width: 320px;
+    height: 100%;
+    display: block;
+}
+
+.displayImovel-content {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.displayImovel-content-principal {
+    display: flex;
+}
+
+.displayImovel-content-principal-precos {
+    display: flex;
+    height: fit-content;
+    flex-direction: column;
+    min-width: 170px;
+    padding-right: 10px;
+}
+
+.displayImovel-content-principal-precos-preco {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.displayImovel-content-principal-precos-condominio {
+    font-size: 14px;
+    color: rgb(156, 169, 182);
+}
+
+.displayImovel-content-principal-localidade {
+    display: flex;
+    height: fit-content;
+    flex-direction: column;
+    border-left: 1px solid rgba(209, 209, 209, 0.5);
+    padding-left: 10px;
+}
+
+.displayImovel-content-principal-localidade-endereco {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.displayImovel-content-principal-localidade-bairro-cidade {
+    font-size: 14px;
+    color: rgb(156, 169, 182);
+}
+
+.displayImovel-content-extra {
+    margin: 15px 0;
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+}
+
+.displayImovel-content-extra-item {
+    display: flex;
+    align-items: center;
+}
+
+.displayImovel-content-extra-item-imagem {
+    width: 18px;
+    height: 18px;
+}
+
+.displayImovel-content-extra-item-texto {
+    font-size: 14px;
+    color: rgb(88, 95, 102);
+}
+
+.displayImovel-content-descritivo-texto {
+    font-size: 16px;
+}
+
+.displayImovel-content-adicionais-texto {
+    font-size: 14px;
+    font-weight: normal;
+    color: rgb(136, 150, 163);
+}
