@@ -1,7 +1,7 @@
 import './DisplayImovel.scss';
-import SquareFoot from "../../common/imgs/square_foot.svg";
-import Bed from "../../common/imgs/bed.svg";
-import Wc from "../../common/imgs/wc.svg";
+import SquareFootSvg from "../../common/imgs/square_foot.svg";
+import BedSvg from "../../common/imgs/bed.svg";
+import WcSvg from "../../common/imgs/wc.svg";
 
 //https://www.imovelweb.com.br/imoveis-aluguel-sao-paulo-sp.html
 function DisplayImovel() {
@@ -23,23 +23,23 @@ function DisplayImovel() {
                 </div>
                 <div className="displayImovel-content-extra">
                     <div className="displayImovel-content-extra-item">
-                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={SquareFoot}/>
-                        <span>66 m²</span>
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={SquareFootSvg}/>
+                        <span className="displayImovel-content-extra-item-texto">66 m²</span>
                     </div>
                     <div className="displayImovel-content-extra-item">
-                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={Bed}/>
-                        <span>1 quarto</span>
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={BedSvg}/>
+                        <span className="displayImovel-content-extra-item-texto">1 quarto</span>
                     </div>
                     <div className="displayImovel-content-extra-item">
-                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={Wc}/>
-                        <span>1 ban</span>
+                        <img className="displayImovel-content-extra-item-imagem" alt="logo" src={WcSvg}/>
+                        <span className="displayImovel-content-extra-item-texto">1 ban</span>
                     </div>
                 </div>
-                <div>
-                    <h3>Apartamento 01 Dormitório, Reformadíssimo, Frente Metrô E Praça Da Liberdade, Faculdades - Liberdade.</h3>
+                <div className="displayImovel-content-descritivo">
+                    <h3 className="displayImovel-content-descritivo-texto">Apartamento 01 Dormitório, Reformadíssimo, Frente Metrô E Praça Da Liberdade, Faculdades - Liberdade.</h3>
                 </div>
-                <div>
-                    <h4>Excelente apartamento frente para o metrô e praça da liberdade, ao lado corredores de ônibus, Av Liberdade,...</h4>
+                <div className="displayImovel-content-adicionais">
+                    <h4 className="displayImovel-content-adicionais-texto">Excelente apartamento frente para o metrô e praça da liberdade, ao lado corredores de ônibus, Av Liberdade,...</h4>
                 </div>
             </article>
         </div>

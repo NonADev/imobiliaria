@@ -47,7 +47,7 @@
     display: flex;
     height: fit-content;
     flex-direction: column;
-    border-left: 1px solid rgba(209, 209, 209, 0.7);
+    border-left: 1px solid rgba(209, 209, 209, 0.5);
     padding-left: 10px;
 }
 
@@ -70,9 +70,25 @@
 
 .displayImovel-content-extra-item {
     display: flex;
+    align-items: center;
 }
 
 .displayImovel-content-extra-item-imagem {
-    width: 24px;
-    height: 24px;
+    width: 18px;
+    height: 18px;
+}
+
+.displayImovel-content-extra-item-texto {
+    font-size: 14px;
+    color: rgb(88, 95, 102);
+}
+
+.displayImovel-content-descritivo-texto {
+    font-size: 16px;
+}
+
+.displayImovel-content-adicionais-texto {
+    font-size: 14px;
+    font-weight: normal;
+    color: rgb(136, 150, 163);
 }
