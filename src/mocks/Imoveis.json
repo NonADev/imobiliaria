@@ -1,0 +1,24 @@
+[
+    {
+        "bairro": "Liberdade, São Paulo",
+        "banheiros": 1,
+        "condominio": 481,
+        "descritivoPrincipal": "Apartamento 01 Dormitório, Reformadíssimo, Frente Metrô E Praça Da Liberdade, Faculdades - Liberdade.",
+        "descritivoSegundario": "Excelente apartamento frente para o metrô e praça da liberdade, ao lado corredores de ônibus, Av Liberdade,...",
+        "endereco": "PÇ Da Liberdade 107",
+        "preco": 1620,
+        "quartos": 1,
+        "tamanho": 66
+    },
+    {
+        "bairro": "Itaquera, São Paulo",
+        "banheiros": 1,
+        "condominio": 201,
+        "descritivoPrincipal": "Apartamento 01 Dormitório, Reformadíssimo, Frente Metrô E Praça Da Liberdade, Faculdades - Liberdade.",
+        "descritivoSegundario": "Excelente apartamento frente para o metrô e praça da liberdade, ao lado corredores de ônibus, Av Liberdade,...",
+        "endereco": "Avenida Rualengo 88",
+        "preco": 1240,
+        "quartos": 1,
+        "tamanho": 66
+    }
+]
