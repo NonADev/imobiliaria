@@ -37,10 +37,12 @@ function Footer() {
             </div>
 
             {/* copyright part */}
-            <div>
+            <div className="footer-copyright">
                 <span>© Copyright 2021 imobiliaria.com</span>
-                <span>
-                    <a href="#a">Termos e condições de uso</a> - <a href="#a">Termos e Condições Gerais de Contratação</a> - <a href="#a">Política de privacidade</a>
+                <span className="footer-copyright-list">
+                    <a href="#a" className="footer-copyright-list-link">Termos e condições de uso</a>
+                    <a href="#a" className="footer-copyright-list-link">Termos e Condições Gerais de Contratação</a>
+                    <a href="#a" className="footer-copyright-list-link">Política de privacidade</a>
                 </span>
             </div>
         </footer>

@@ -46,3 +46,24 @@
     font-size: 22px;
     margin-bottom: 14px;
 }
+
+.footer-copyright {
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px;
+}
+
+.footer-copyright-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-copyright-list-link {
+    color: #ffffff;
+    margin-left: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
