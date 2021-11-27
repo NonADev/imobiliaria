@@ -4,7 +4,6 @@ import InstagranLogo from "../../common/imgs/instagram_icon.svg";
 import LinkedinLogo from "../../common/imgs/linkedin_logo_icon.svg";
 import AppleLogo from "../../common/imgs/104490_apple_icon.svg";
 import GoogleplayLogo from "../../common/imgs/317742_google_google play_icon.svg";
-//https://www.imovelweb.com.br/imoveis-aluguel-sao-paulo-sp.html
 
 function Footer() {
     return (
