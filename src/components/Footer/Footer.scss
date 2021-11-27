@@ -1,0 +1,69 @@
+.footer-grouplist {
+    background-color: #2c3e50;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 80px 30px 70px;
+}
+
+.footer-grouplist-list {
+    list-style-type: none;
+}
+
+.footer-grouplist-list li {
+    font-size: 16px;
+}
+
+.footer-grouplist-list-icons {
+    display: flex;
+    justify-content: space-between;
+    width: calc(32px * 4);
+}
+
+.footer-grouplist-list-icons li img {
+    width: 32px;
+}
+
+.footer-grouplist-list-appstores {
+    display: flex;
+    justify-content: space-between;
+    width: calc(32px * 3);
+}
+
+.footer-grouplist-list-appstores li {
+    background-color: white;
+    border-radius: 13%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.footer-grouplist-list-appstores li img {
+    width: 32px;
+}
+
+.footer-title {
+    font-size: 22px;
+    margin-bottom: 14px;
+}
+
+.footer-copyright {
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px;
+}
+
+.footer-copyright-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-copyright-list-link {
+    color: #ffffff;
+    margin-left: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
