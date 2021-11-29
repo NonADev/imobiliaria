@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/imobiliaria/static/css/main.dad87655.chunk.css",
+    "main.js": "/imobiliaria/static/js/main.7c80afb3.chunk.js",
+    "main.js.map": "/imobiliaria/static/js/main.7c80afb3.chunk.js.map",
+    "runtime-main.js": "/imobiliaria/static/js/runtime-main.9bb0d7e1.js",
+    "runtime-main.js.map": "/imobiliaria/static/js/runtime-main.9bb0d7e1.js.map",
+    "static/js/2.0b5c20f1.chunk.js": "/imobiliaria/static/js/2.0b5c20f1.chunk.js",
+    "static/js/2.0b5c20f1.chunk.js.map": "/imobiliaria/static/js/2.0b5c20f1.chunk.js.map",
+    "index.html": "/imobiliaria/index.html",
+    "static/css/main.dad87655.chunk.css.map": "/imobiliaria/static/css/main.dad87655.chunk.css.map",
+    "static/js/2.0b5c20f1.chunk.js.LICENSE.txt": "/imobiliaria/static/js/2.0b5c20f1.chunk.js.LICENSE.txt",
+    "static/media/104490_apple_icon.8994a464.svg": "/imobiliaria/static/media/104490_apple_icon.8994a464.svg",
+    "static/media/317742_google_google play_icon.38cce552.svg": "/imobiliaria/static/media/317742_google_google play_icon.38cce552.svg",
+    "static/media/bed.af017696.svg": "/imobiliaria/static/media/bed.af017696.svg",
+    "static/media/instagram_icon.b97cb50e.svg": "/imobiliaria/static/media/instagram_icon.b97cb50e.svg",
+    "static/media/linkedin_logo_icon.cfe4cd5b.svg": "/imobiliaria/static/media/linkedin_logo_icon.cfe4cd5b.svg",
+    "static/media/matchmakers_logo.b1881abe.svg": "/imobiliaria/static/media/matchmakers_logo.b1881abe.svg",
+    "static/media/square_foot.a5ed7cce.svg": "/imobiliaria/static/media/square_foot.a5ed7cce.svg",
+    "static/media/twitter_logo_icon.51480627.svg": "/imobiliaria/static/media/twitter_logo_icon.51480627.svg",
+    "static/media/wc.5bc18ac2.svg": "/imobiliaria/static/media/wc.5bc18ac2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb0d7e1.js",
+    "static/js/2.0b5c20f1.chunk.js",
+    "static/css/main.dad87655.chunk.css",
+    "static/js/main.7c80afb3.chunk.js"
+  ]
+}
