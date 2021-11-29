@@ -1,7 +1,7 @@
 import GoogleMapReact from 'google-map-react';
 
 function MapContainer() {
-    let key = "AIzaSyCdzZhKzGXnKKMh2Ea2HY0WLhjkcU8yljc";
+    let key = "";
 
     return (
         // Important! Always set the container height explicitly
