@@ -1,4 +1,4 @@
-import LogoImobiliaria from "../../common/imgs/matchmakers_logo.svg";
+import LogoImobiliaria from "../../assets/imgs/matchmakers_logo.svg";
 import './Navbar.scss';
 
 function Navbar() {

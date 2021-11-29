@@ -1,9 +1,9 @@
 import './Footer.scss';
-import TwitterLogo from "../../common/imgs/twitter_logo_icon.svg";
-import InstagranLogo from "../../common/imgs/instagram_icon.svg";
-import LinkedinLogo from "../../common/imgs/linkedin_logo_icon.svg";
-import AppleLogo from "../../common/imgs/104490_apple_icon.svg";
-import GoogleplayLogo from "../../common/imgs/317742_google_google play_icon.svg";
+import TwitterLogo from "../../assets/imgs/twitter_logo_icon.svg";
+import InstagranLogo from "../../assets/imgs/instagram_icon.svg";
+import LinkedinLogo from "../../assets/imgs/linkedin_logo_icon.svg";
+import AppleLogo from "../../assets/imgs/104490_apple_icon.svg";
+import GoogleplayLogo from "../../assets/imgs/317742_google_google play_icon.svg";
 
 function Footer() {
     return (

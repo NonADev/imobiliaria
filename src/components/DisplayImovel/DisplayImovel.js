@@ -1,7 +1,7 @@
 import './DisplayImovel.scss';
-import SquareFootSvg from "../../common/imgs/square_foot.svg";
-import BedSvg from "../../common/imgs/bed.svg";
-import WcSvg from "../../common/imgs/wc.svg";
+import SquareFootSvg from "../../assets/imgs/square_foot.svg";
+import BedSvg from "../../assets/imgs/bed.svg";
+import WcSvg from "../../assets/imgs/wc.svg";
 
 function DisplayImovel(props) {
     return (
